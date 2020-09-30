@@ -1,3 +1,12 @@
+
+## Local Development Instructions
+
+1. `npm run predeploy`
+2. `npm run deploy`
+3. `gh-pages` branch is updated with site files
+
+===============================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
